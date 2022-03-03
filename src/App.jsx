@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
 /* =============== UI COMPONENTS =============== */
-import Datas from "./COMPONENTS/Datas";
+import Datas from "./components/Datas";
 import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
-import Hero from "./component/Hero";
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Price from "./components/Price";
 import Reviews from "./components/Reviews";
