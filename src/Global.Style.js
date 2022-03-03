@@ -134,6 +134,10 @@ ul {
 }
 }
 
+.exa{
+    background: linear-gradient(to right, #ffffff85, #ffffff4d);
+}
+
 `;
 
 // Create media queries
