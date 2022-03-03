@@ -1,8 +1,8 @@
 import React from "react";
 
-import Button from "../../UI/Button";
-import Section from "../../UI/Section";
-import SectionTitle from "../../UI/SectionTitle";
+import Button from "../UI/Button";
+import Section from "../UI/Section";
+import SectionTitle from "../UI/SectionTitle";
 
 import { StyledPrice } from "./Styles/Price.style";
 

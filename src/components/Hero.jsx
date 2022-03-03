@@ -1,7 +1,7 @@
 import React from "react";
 
-import Button from "../../UI/Button";
-import Section from "../../UI/Section";
+import Button from "../UI/Button";
+import Section from "../UI/Section";
 
 import { StyledHero } from "./Styles/Hero.style";
 

@@ -1,7 +1,7 @@
 import React from "react";
-import Section from "../../UI/Section";
-import { ScFooter } from "./Footer.style";
+import Section from "../UI/Section";
 import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
+import { StyledFooter } from "./Styles/Footer.style";
 
 const Footer = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
 
-import Section from "../../UI/Section";
-import SectionTitle from "../../UI/SectionTitle";
+import Section from "../UI/Section";
+import SectionTitle from "../UI/SectionTitle";
 
 import { StyledGallery } from "./Styles/Gallery.style";
 

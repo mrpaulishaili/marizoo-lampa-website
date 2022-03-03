@@ -1,5 +1,4 @@
 import React from "react";
-import { ScNavbar } from "./Navbar.style";
 import { StyledNavbar } from "./Styles/Navbar.style";
 
 const Navbar = ({ toggleMenu }) => {
