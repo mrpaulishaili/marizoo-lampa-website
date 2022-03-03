@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { tablet, tabletLg } from "../../Styles/Global.Style";
+import { tablet, tabletLg } from "../../Global.Style";
 
 export const StyledReviews = styled.div`
   width: 100vw;

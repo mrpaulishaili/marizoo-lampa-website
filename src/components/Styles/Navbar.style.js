@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { laptop, mobileMd, tablet, tabletMd } from "../../Styles/Global.Style";
+import { laptop, mobileMd, tablet, tabletMd } from "../../Global.Style";
 
 export const StyledNavbar = styled.div`
   width: 100vw;

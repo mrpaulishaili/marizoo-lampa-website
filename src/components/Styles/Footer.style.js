@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { tablet } from "../../Styles/Global.Style";
+import { tablet } from "../../Global.Style";
 
 export const StyledFooter = styled.div`
   width: 100%;

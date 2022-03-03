@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { mobileMd, tablet } from "../../Styles/Global.Style";
+import { mobileMd, tablet } from "../../Global.Style";
 
 /* 00.*/
 export const StyledGallery = styled.div`

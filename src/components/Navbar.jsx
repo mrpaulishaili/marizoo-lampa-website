@@ -1,4 +1,5 @@
 import React from "react";
+
 import { StyledNavbar } from "./Styles/Navbar.style";
 
 const Navbar = ({ toggleMenu }) => {
