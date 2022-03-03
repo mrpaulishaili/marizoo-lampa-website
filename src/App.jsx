@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 
 /* =============== UI COMPONENTS =============== */
-import Datas from "./components/datas/Datas";
-import Footer from "./components/footer/Footer";
-import Gallery from "./components/gallery/Gallery";
-import Hero from "./components/hero/Hero";
-import Navbar from "./components/navbar/Navbar";
-import Price from "./components/price/Price";
-import Reviews from "./components/reviews/Reviews";
+import Datas from "./COMPONENTS/Datas";
+import Footer from "./components/Footer";
+import Gallery from "./components/Gallery";
+import Hero from "./component/Hero";
+import Navbar from "./components/Navbar";
+import Price from "./components/Price";
+import Reviews from "./components/Reviews";
 import Hamburger from "./UI/Hamburger";
 import ToggleTheme from "./UI/ToggleTheme";
 
