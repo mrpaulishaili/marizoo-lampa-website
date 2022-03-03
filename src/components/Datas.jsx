@@ -1,7 +1,8 @@
 import React from "react";
-import Section from "../../UI/Section";
-import SectionTitle from "../../UI/SectionTitle";
-import { ScDatas } from "./Data.style";
+
+import Section from "../UI/Section";
+import SectionTitle from "../UI/SectionTitle";
+
 import { StyledDatas } from "./Styles/Data.style";
 
 const Datas = () => {
