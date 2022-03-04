@@ -20,6 +20,10 @@ html {
     font-family: 'Poppins', sans-serif; 
 }
 
+body{
+  background-color: var(--color-bg-2);
+}
+
 img {
     max-width: 100%;
     height: auto;

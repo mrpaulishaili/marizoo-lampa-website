@@ -39,7 +39,7 @@ export const StyledReviews = styled.div`
   /* reviews card */
   .reviews__card-card {
     width: 280px;
-    height: 210px;
+    height: max-content;
     margin: 2rem 0;
     padding: 1rem;
     background: var(--color-bg-dark-1);
