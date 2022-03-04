@@ -17,8 +17,8 @@
 - Mobile Responsive? YES.
 
 ## How to run
-`yarn install`
-`yarn start`
+`npm install`
+`npm start`
 ## View other projects:
 - [My Blog](https://hashnode.com/@marizoo)
 - [My Pinterest](https://pin.it/16vGwjy)
